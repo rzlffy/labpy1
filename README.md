@@ -33,3 +33,7 @@
 "return"  = sebuah selesainya eksekusi dalam sebuah codingan.
 
 >!Step 3:
+
+  Untuk memastikan suatu program berhasil atau tidak, maka bukalah aplikasi cmd/commandprompt.
+  
+  
