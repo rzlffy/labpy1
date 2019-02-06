@@ -6,13 +6,13 @@
   
   Bukalah aplikasi sublime text.
 
-# ![step 1](https://user-images.githubusercontent.com/46733958/52322873-6d683c80-2a0d-11e9-88e9-4ecb5bc5270e.png)
+># ![step 1](https://user-images.githubusercontent.com/46733958/52322873-6d683c80-2a0d-11e9-88e9-4ecb5bc5270e.png)
 
 >!Step 2:
   
   Buatlah rumus codingan seperti dibawah ini, dan perhatikan setiap pengetikan setiap huruf.
 
-# ![step 2](https://user-images.githubusercontent.com/46733958/52324523-32b5d280-2a14-11e9-9313-86e105df2c66.png)
+># ![step 2](https://user-images.githubusercontent.com/46733958/52324523-32b5d280-2a14-11e9-9313-86e105df2c66.png)
 
 >Berikut penjelasan mengenai codingan program bilangan sederhana:
   
@@ -36,4 +36,5 @@
 
   Untuk memastikan suatu program berhasil atau tidak, maka bukalah aplikasi cmd/commandprompt.
   
-  
+  ># ![step 3](https://user-images.githubusercontent.com/46733958/52327503-ef149600-2a1e-11e9-830f-25bf899f47be.png)
+
