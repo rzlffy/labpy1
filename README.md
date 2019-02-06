@@ -16,5 +16,5 @@
 
 >Berikut penjelasan mengenai codingan program bilangan sederhana:
   
-*print = berfungsi untuk mencetak atau menampilkan objek ke perangkat keluaran (layar) atau ke file teks.
+print = berfungsi untuk mencetak atau menampilkan objek ke perangkat keluaran (layar) atau ke file teks.
   
