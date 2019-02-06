@@ -10,9 +10,7 @@
 
 !Step 2:
   
-  Buatlah program bilangan sederhana, berikut cara pembuatannya:
+  Buatlah rumus codingan seperti dibawah ini, dan perhatikan setiap pengetikan setiap huruf.
 
 # ![step 2](https://user-images.githubusercontent.com/46733958/52324523-32b5d280-2a14-11e9-9313-86e105df2c66.png)
-
-  
 
