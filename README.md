@@ -8,8 +8,11 @@
 
 # ![step 1](https://user-images.githubusercontent.com/46733958/52322873-6d683c80-2a0d-11e9-88e9-4ecb5bc5270e.png)
 
-!Step 3:
+!Step 2:
   
+  Buatlah program bilangan sederhana, berikut cara pembuatannya:
+  
+
 
   
 
