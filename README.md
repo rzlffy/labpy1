@@ -10,7 +10,11 @@
 
 >!Step 2:
   
-  Sebelum memulai eksekusi, maka buatlah folder baru dengan penamaan file yang berakhiran ".py"(tanpa tanda kutip), contoh file yang saya buat "Tugas2pemograman.py" . Lalu, buatlah codingan seperti dibawah ini, dan perhatikan setiap pengetikan setiap huruf.
+  Sebelum memulai eksekusi, maka buatlah folder baru dengan penamaan file yang berakhiran ".py"(tanpa tanda kutip), contoh file yang saya buat "Tugas2pemograman.py" . 
+  
+># ![step file baru](https://user-images.githubusercontent.com/46733958/52328897-c511a280-2a23-11e9-8f3f-fed59754046e.png)  
+  
+  Lalu, buatlah codingan seperti dibawah ini, dan perhatikan setiap pengetikan setiap huruf.
 
 ># ![step 2](https://user-images.githubusercontent.com/46733958/52324523-32b5d280-2a14-11e9-9313-86e105df2c66.png)
 
