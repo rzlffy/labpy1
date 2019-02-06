@@ -16,6 +16,7 @@
 
 >Berikut penjelasan mengenai codingan program bilangan sederhana:
   
+```
 "print()" = untuk mencetak atau menampilkan objek ke perangkat keluaran (layar) atau ke file teks.
 
 "def"     = sebuah perintah python yang tidak akan aktif sampai python me-running perintah def tersebut, atau sebagai kata kunci.
@@ -31,6 +32,7 @@
 "else"    = ketika tidak ada suatu kondisi yang terpenuhi maka jalankan program.
 
 "return"  = sebuah selesainya eksekusi dalam sebuah codingan.
+```
 
 >!Step 3:
 
@@ -40,4 +42,4 @@
 
   Berikut contoh jika program yang kita buat berhasil :
   
-  
+  ># ![step 4](https://user-images.githubusercontent.com/46733958/52327842-11f37a00-2a20-11e9-826a-1dc2ea8c5a5b.png)
