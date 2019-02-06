@@ -10,7 +10,7 @@
 
 >!Step 2:
   
-  Buatlah rumus codingan seperti dibawah ini, dan perhatikan setiap pengetikan setiap huruf.
+  Sebelum memulai eksekusi, maka buatlah folder baru dengan penamaan file yang berakhiran ".py"(tanpa tanda kutip), contoh file yang saya buat "Tugas2pemograman.py" . Lalu, buatlah codingan seperti dibawah ini, dan perhatikan setiap pengetikan setiap huruf.
 
 ># ![step 2](https://user-images.githubusercontent.com/46733958/52324523-32b5d280-2a14-11e9-9313-86e105df2c66.png)
 
@@ -42,4 +42,4 @@
 
   Berikut contoh jika program yang kita buat berhasil :
   
-  ># ![step 4](https://user-images.githubusercontent.com/46733958/52327842-11f37a00-2a20-11e9-826a-1dc2ea8c5a5b.png)
+  ># ![step 5](https://user-images.githubusercontent.com/46733958/52328644-e32ad300-2a22-11e9-9206-3a3b363d21c2.png)
